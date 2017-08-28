@@ -6,9 +6,9 @@ bamazon_app.js steps to navagaiting the store.
 
 *User starts by typing in node .\bamazon.app.js
 
-1.) A table appears from the mysql database with the avaialbe products. You will also be given a unquie customer id
+1.) A table appears from the mysql database with the available products. You will also be given a unique customer id
 
-2.)Use arrow keys to choose Purchase or exit the store and click enter
+2.)Use arrow keys to choose purchase or exit the store and click enter
 
 3.)Choose the id of the product you would like to purchase
 
