@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This is a store like app that can run through node",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glawing42/bamazon.git"
+  },
+  "author": "Graham Lawing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glawing42/bamazon/issues"
+  },
+  "homepage": "https://github.com/glawing42/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^3.2.2",
+    "mysql": "^2.14.1"
+  }
+}
